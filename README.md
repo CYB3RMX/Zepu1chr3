@@ -79,3 +79,5 @@ target = zep.File("WannaCry.exe")
 disas = zep.DisassembleFunction(target, given_function="entry0", only_codes=False)
 ```
 ![image](.animations/disas2.png)
+
+# Pypi and Other functionalities are coming soon!!
