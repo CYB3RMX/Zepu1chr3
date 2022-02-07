@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/zepu1chr3/__init__.py
+src/zepu1chr3/zepu1chr3.py
+src/zepu1chr3.egg-info/PKG-INFO
+src/zepu1chr3.egg-info/SOURCES.txt
+src/zepu1chr3.egg-info/dependency_links.txt
+src/zepu1chr3.egg-info/top_level.txt

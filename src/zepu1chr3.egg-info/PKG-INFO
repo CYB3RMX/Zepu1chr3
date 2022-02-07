@@ -1,12 +1,23 @@
+Metadata-Version: 2.1
+Name: zepu1chr3
+Version: 0.0.2
+Summary: A Radare2 based Python module for Binary Analysis and Reverse Engineering.
+Home-page: https://github.com/CYB3RMX/Zepu1chr3
+Author: CYB3RMX
+Author-email: cyb3rmx0@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/CYB3RMX/Zepu1chr3/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Zepu1chr3
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white">
 <br><b>A Radare2 based Python module for Binary Analysis and Reverse Engineering.</b><br>
-
-# Installation
-- <i>You can simply run these command.</i>
-```bash
-pip3 install zepu1chr3
-```
 
 # How to Use
 ## Specifying a target binary
@@ -87,3 +98,4 @@ disas = zep.DisassembleFunction(target, given_function="entry0", only_codes=Fals
 ![image](.animations/disas2.png)
 
 # Pypi and Other functionalities are coming soon!!
+

@@ -1,0 +1,7 @@
+[build-system]
+requires = [
+    "r2pipe",
+    "setuptools"
+]
+
+build-backend = "setuptools.build_meta"
