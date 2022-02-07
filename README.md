@@ -3,7 +3,7 @@
 <br><b>A Radare2 based Python module for Binary Analysis and Reverse Engineering.</b><br>
 
 # Installation
-- <i>You can simply run these command.</i>
+- <i>You can simply run this command.</i>
 ```bash
 pip3 install zepu1chr3
 ```
