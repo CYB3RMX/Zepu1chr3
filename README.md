@@ -86,4 +86,4 @@ disas = zep.DisassembleFunction(target, given_function="entry0", only_codes=Fals
 ```
 ![image](.animations/disas2.png)
 
-# Pypi and Other functionalities are coming soon!!
+# Other functionalities are coming soon!!
